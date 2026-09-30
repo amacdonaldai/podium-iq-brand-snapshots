@@ -1,5 +1,5 @@
 # Podium IQ brand snapshots
 
-Static personalized teaser pages (one folder per brand).
+Static brand-snapshot pages for outreach.
 
-- Qualstar: `/qualstar/`
+Live: https://amacdonaldai.github.io/podium-iq-brand-snapshots/
