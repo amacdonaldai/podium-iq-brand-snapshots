@@ -81,40 +81,31 @@
   ],
   "evidence": [
     {
-      "query": "Best creative agencies to hire",
-      "query_id": "query_highdive_evidence_1",
-      "model": "Aggregate readout · Unbranded",
-      "full_answer": "Podium IQ Full Funnel Unbranded readout across 47 queries and 407 responses in the US creative / advertising agency market. Visibility leaders: Wieden+Kennedy 52%, Accenture Song family 39%, Ogilvy 34%, Nike 30%, R/GA 29%. Share of Voice leaders: Wieden+Kennedy 8%, Accenture Song family 7%, Ogilvy 3%, Nike 3%, R/GA 3%. Citation footprint: 0 Highdive citations out of 1,116 total citations across 533 unique domains — brand citation share 0%.",
-      "excerpt": "Wieden+Kennedy leads visibility at 52% and SOV at 8%; Highdive has 0 of 1,116 citations.",
-      "highlight": [
-        "Highdive",
-        "Wieden+Kennedy",
-        "Accenture Song"
-      ]
+      "topic": "Best Creative Agencies",
+      "query": "is Wieden+Kennedy the best creative agency for advertising campaigns",
+      "query_id": "",
+      "model": "Open AI · Web Search",
+      "full_answer": "Wieden+Kennedy is highly regarded in the advertising industry, known for its innovative and impactful campaigns for brands like Nike, Coca-Cola, and Old Spice. They have a reputation for creative excellence and have won numerous awards over the years. However, whether they are the \"best\" can be subjective and depends on factors like the specific needs of a brand, the nature of the campaign, and budget considerations.\n\nEach agency has its strengths, and Wieden+Kennedy is certainly among the top contenders, but the \"best\" agency can vary based on individual requirements and objectives.",
+      "excerpt": "Wieden+Kennedy is highly regarded in the advertising industry, known for its innovative and impactful campaigns for brands like Nike, Coca-Cola, and Old Spice. They have a reputation for creative excellence and have won numerous awards over the years. However, whether they are the \"best\" can be subjective and depends on factors like the specific needs of a brand, the nature of the campaign, and budget considerations.",
+      "highlight": ""
     },
     {
-      "query": "Compare creative agencies and find an independent creative partner",
-      "query_id": "query_highdive_evidence_2",
-      "model": "Aggregate readout · Unbranded",
-      "full_answer": "Podium IQ suggested topics include Best Creative Agencies, Creative Agency Pricing, Compare Creative Agencies, Find Creative Agency, and Independent Creative Agencies. Model performance breakdown: Highdive 10%, Perplexity 25%, Google 32%, Anthropic 11%, OpenAI 21%, Xai 0%. Peer agencies (W+K, Accenture Song, Ogilvy, R/GA, Anomaly, 72andSunny, BBDO, TBWA) dominate unbranded visibility while Highdive citation share remains 0%.",
-      "excerpt": "On Compare / Find Creative Agency topics, Highdive shows 0% citation share against W+K at 8% SOV.",
-      "highlight": [
-        "Highdive",
-        "Wieden+Kennedy",
-        "Compare Creative Agencies"
-      ]
+      "topic": "Best Creative Agencies",
+      "query": "best creative agencies in the US for marketing",
+      "query_id": "",
+      "model": "Open AI · No Web Search",
+      "full_answer": "While there are many standout creative agencies in the US, some consistently recognized for their innovation and impact on marketing include:\n\n\nWieden+Kennedy (Portland, OR) - Known for their iconic campaigns with brands like Nike and Coca-Cola.\n\n\n\nDroga5 (New York, NY) - Renowned for their creative storytelling and work with clients like Google and Amazon.\n\n\n\nBBH (Bartle Bogle Hegarty) (New York, NY) - Famous for their strategic approach and partnerships with brands like Audi and Levi's.\n\n\n\nR/GA (New York, NY) - Specializes in combining creativity with technology, working with Nike and Samsung.\n\n\n\nBBDO (New York, NY) - Known for their impactful and engaging campaigns with brands like AT&T and Pepsi.\n\n\n\nLeo Burnett (Chicago, IL) - Esteemed for their human-centered advertising for McDonald's and Samsung.\n\n\n\nGSD&M (Austin, TX) - Recognized for their work with Southwest Airlines and other major brands.\n\n\n\nChiat\\Day (Los Angeles, CA) - Part of TBWA, known for disruptive and innovative campaigns for Apple and Nissan.\n\n\n\nAnomaly (New York, NY) - Praised for its unconventional strategies with Budweiser and Johnnie Walker.\n\n\n\n72andSunny (Los Angeles, CA) - Known for vibrant, culture-driven marketing for brands like Adidas and Activision.\n\n\nThese agencies are celebrated for their creativity, strategic thinking, and ability to deliver compelling marketing solutions.",
+      "excerpt": "While there are many standout creative agencies in the US, some consistently recognized for their innovation and impact on marketing include:",
+      "highlight": ""
     },
     {
-      "query": "Advertising: which creative agencies are people talking about?",
-      "query_id": "query_highdive_evidence_3",
-      "model": "Aggregate readout · Reddit · r/advertising",
-      "full_answer": "Podium IQ community hooks include 5 PAA queries and 2 Reddit queries from r/advertising and r/copywriting. Takeaway: network and holding-company creative names already own AI visibility (Wieden+Kennedy 52%, Accenture Song 39%, Ogilvy 34%) while Highdive has 0 brand citations in the Full Funnel citation graph.",
-      "excerpt": "On r/advertising and r/copywriting-linked coverage, Highdive has 0 brand citations vs W+K at 52% visibility.",
-      "highlight": [
-        "Highdive",
-        "r/advertising",
-        "Wieden+Kennedy"
-      ]
+      "topic": "Best Creative Agencies",
+      "query": "top creative agencies specializing in digital advertising",
+      "query_id": "",
+      "model": "Perplexity",
+      "full_answer": "If you want top creative agencies specializing in digital advertising, the strongest names in the provided results are Ogilvy, Dentsu, Rethink, and WPP; these appear in Superside’s 2026 list of top digital ad agencies, which is the most directly relevant source for creative-led digital advertising[3]. For more performance-focused but still creative digital advertising agencies, Vert Digital is DesignRush’s No. 1 digital advertising agency, and Ignite Visibility and Elit-Web rank highly on Clutch’s digital marketing lists[2][9][10].\n\nHere’s a practical shortlist based on the results:\n\n| Agency | Why it stands out |\n|---|---|\n| Ogilvy | Globally recognized creative agency with strong digital advertising capabilities[3] |\n| Dentsu | Large network with digital ad expertise and broad market reach[3] |\n| Rethink | Included among top digital ad agencies in 2026[3] |\n| WPP | Major global holding company with extensive creative and media resources[3] |\n| Vert Digital | DesignRush’s top-ranked digital advertising agency[2] |\n| Ignite Visibility | One of Clutch’s top U.S. digital marketing agencies[9] |\n| Elit-Web | Top-ranked on Clutch for digital and display advertising[10][11] |\n\nIf you want the best fit, choose based on the type of creative digital advertising you need:\n\nBrand campaigns and high-concept creative: Ogilvy, Dentsu, WPP[3]\n\n\nPerformance-driven digital ads: Vert Digital, Ignite Visibility, Elit-Web[2][9][10][11]\n\n\nPaid social / multi-channel media execution: The Media Captain, Starfish, WestMetric[5][8][12]\n\n\nIf you want, I can narrow this to:\n\nTop 10 global creative agencies\n\n\nBest U.S.-based agencies\n\n\nBest agencies for paid social / Meta / TikTok / YouTube ads\n\n\nBest boutique agencies vs. large networks",
+      "excerpt": "If you want top creative agencies specializing in digital advertising, the strongest names in the provided results are Ogilvy, Dentsu, Rethink, and WPP; these appear in Superside’s 2026 list of top digital ad agencies, which is the most directly relevant source for creative-led digital advertising[3]. For more performance-focused but still creative digital advertising agencies, Vert Digital is DesignRush’s No. 1 digital advertising agency, and Ignite Visibility and Elit-Web rank highly on Clutch’s digital marketing lists[2][9][10].",
+      "highlight": ""
     }
   ]
 }

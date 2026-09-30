@@ -22,39 +22,31 @@
   },
   "evidence": [
     {
-      "query": "Best digital marketing agencies in the US",
-      "query_id": "query_intero_evidence_1",
-      "model": "Aggregate readout · Unbranded",
-      "full_answer": "Podium IQ Full Funnel Unbranded readout for US digital marketing agency queries (53 queries, 461 responses, 1,392 total citations). On the platform Visibility tab, WebFX leads brand visibility at 13%, with Intero Digital second at 12% and Ignite Visibility at 10%. In Attribution (All Models), Intero Digital leads first-mention rate at 22% (100 mentions, 110 unique citations) versus WebFX at 21% first-mention (100 mentions, 104 unique citations). App Visibility Score leaders are Google (39%) and WebFX (38%); citation-share leaders include webfx.com (6%), clutch.co (5%), and ignitevisibility.com / designrush.com (4% each).",
-      "excerpt": "WebFX leads brand visibility at 13%, with Intero Digital second at 12% and Ignite Visibility at 10%.",
-      "highlight": [
-        "WebFX",
-        "Intero Digital"
-      ]
+      "topic": "Best Digital Agencies",
+      "query": "Top integrated marketing agencies in the US?",
+      "query_id": "",
+      "model": "Anthropic · No Web Search",
+      "full_answer": "Top Integrated Marketing Agencies in the US\n\n\n\nLargest/Most Established\n\n\nWPP (Ogilvy, Grey, GroupM divisions) — London-based but massive US presence\n\n\nOmnicom (BBDO, DDB, TBWA) — Largest US-based holding company\n\n\nPublicis (Saatchi & Saatchi, Publicis Sapient, Zenith)\n\n\nInterpublic Group (McCann, Craft, Acxiom)\n\n\n\nSpecialized/Modern Standouts\n\n\n92Y/Huge — Digital-forward\n\n\nWavemaker — Media & data-focused\n\n\nDentsu — Strong creative + tech integration\n\n\nHavas — Purpose-driven marketing\n\n\nR/GA — Tech innovation focus\n\n\n\nMid-Size Alternatives\n\n\nDroga5 — Award-winning creative\n\n\nMullen Lowe — Creative excellence\n\n\nMartin — Independent, growth-focused\n\n\nMoxie — Boutique creative\n\n\n\nWhat to Consider\n\n\nYour industry/budget size\n\n\nFull-service vs. specialized needs\n\n\nGeographic location requirements\n\n\nDigital vs. traditional balance\n\n\nBest approach: Get referrals for your specific needs—top agencies vary significantly by sector, company size, and campaign type. What's your industry or focus area?",
+      "excerpt": "Top Integrated Marketing Agencies in the US",
+      "highlight": ""
     },
     {
-      "query": "Top SEO agencies for mid-market brands",
-      "query_id": "query_intero_evidence_2",
-      "model": "Aggregate readout · Unbranded",
-      "full_answer": "Podium IQ aggregate summary for unbranded SEO / agency comparison queries in this list. Citation share is led by webfx.com at 6% of 1,392 total citations (~83), followed by clutch.co at 5% (~70) and ignitevisibility.com / designrush.com at 4% each (~56). Intero Digital is not among the listed citation-share leaders, while Attribution still credits Intero with 110 unique citations and a 22% first-mention rate (ahead of WebFX at 21%). Share of Voice leaders in the app readout are Google (9%), WebFX (7%), and Thrive (6%).",
-      "excerpt": "Citation share is led by webfx.com at 6%, followed by clutch.co at 5%; Intero is not among the listed citation-share leaders.",
-      "highlight": [
-        "WebFX",
-        "Clutch",
-        "Intero Digital"
-      ]
+      "topic": "Best Digital Agencies",
+      "query": "Which agency is best for digital marketing?",
+      "query_id": "",
+      "model": "Perplexity · Web Search · Run 2",
+      "full_answer": "There is no single best digital marketing agency for everyone; the best choice depends on your goals, budget, and industry.[14] If you want the strongest all-around pick from the results you provided, Thrive Internet Marketing Agency appears most consistently ranked at or near #1.[1][2][4]\n\nIf you want a quick shortlist by use case, the results suggest:\n\nThrive Internet Marketing Agency — best overall/full-service option.[1][2][4]\n\n\nWebFX — strong for data-driven, full-service marketing and attribution/revenue tracking.[8][10][11]\n\n\nIgnite Visibility — ranked highly by Clutch for holistic SEO, content, paid media, and analytics.[18]\n\n\nDisruptive Advertising — strong choice if your priority is paid advertising/PPC.[1][15]\n\n\nSmartSites — frequently ranked among top agencies, especially for broader digital marketing and optimization.[13][17]\n\n\nIf you tell me your business type, budget, and whether you need SEO, ads, social media, or full-service support, I can narrow this to the best agency for your situation.",
+      "excerpt": "There is no single best digital marketing agency for everyone; the best choice depends on your goals, budget, and industry.[14] If you want the strongest all-around pick from the results you provided, Thrive Internet Marketing Agency appears most consistently ranked at or near #1.[1][2][4]",
+      "highlight": ""
     },
     {
-      "query": "Find an AI search or GEO agency",
-      "query_id": "query_intero_evidence_3",
-      "model": "Aggregate readout · Unbranded",
-      "full_answer": "Podium IQ unbranded readout framed around AI Search / GEO agency discovery. Across 53 queries and 461 responses, platform brand visibility places WebFX at 13% and Intero Digital at 12%, with Ignite Visibility at 10%, Directive at 7%, Power Digital at 5%, and HigherVisibility at 4%. App Visibility Score elevates Google (39%) and WebFX (38%). Reddit appears lightly in the source mix (r/BestSEOAgencies, r/TheSEOInquiries; reddit.com with 8 citations / 2% in the Gemini citation-source list). This evidence block is a podium readout summary pending Trace full_answer pull — not a model transcript.",
-      "excerpt": "Platform brand visibility places WebFX at 13% and Intero Digital at 12%, with Ignite Visibility at 10%.",
-      "highlight": [
-        "WebFX",
-        "Intero Digital",
-        "Ignite Visibility"
-      ]
+      "topic": "Best Digital Agencies",
+      "query": "WebFX alternatives for digital marketing?",
+      "query_id": "",
+      "model": "Perplexity",
+      "full_answer": "If you want WebFX alternatives for digital marketing, the strongest matches in the search results are SmartSites, KlientBoost, Ignite Visibility, Thrive Internet Marketing Agency, Straight North, and Single Grain.[1][2][3][7][8]\n\n\nSmartSites — closest full-service alternative if you want SEO, PPC, and web design under one roof.[1][2][5][7][12]\n\n\nKlientBoost — best fit if your priority is PPC and conversion rate optimization rather than broad full-service marketing.[1][2][6][8][10]\n\n\nIgnite Visibility — strong full-funnel/multi-channel option for mid-market brands.[2][9][15]\n\n\nThrive Internet Marketing Agency — broad digital marketing option often positioned for SMBs and franchises.[1][5][9]\n\n\nStraight North — useful if you care most about SEO and lead generation.[1][2][6][7][8]\n\n\nSingle Grain — a good fit for content-led growth and paid media.[2][3]\n\n\nVictorious — better if you want a more specialized SEO-only agency.[2][9]\n\n\nCIENCE — relevant if your main goal is B2B lead generation and appointment setting.[1][6][7]\n\n\nA simple way to choose:\n\nChoose SmartSites if you want the closest “same general agency model” as WebFX.[1][2][5]\n\n\nChoose KlientBoost if paid media and CRO matter most.[1][2][6][10]\n\n\nChoose Straight North or Victorious if you want SEO-first support.[1][2][6][8][9]\n\n\nChoose CIENCE if you need B2B lead-gen rather than broad marketing services.[1][6][7]\n\n\nIf you want, I can also narrow these down by budget, B2B vs. B2C, or SEO vs. PPC vs. full-service.",
+      "excerpt": "If you want WebFX alternatives for digital marketing, the strongest matches in the search results are SmartSites, KlientBoost, Ignite Visibility, Thrive Internet Marketing Agency, Straight North, and Single Grain.[1][2][3][7][8]",
+      "highlight": ""
     }
   ],
   "brand_icon_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAAQlBMVEVHcExxvYUnVKOc2GsdkrJSu4MZa68ila5ktYwpUqJWvINQuYWa12xGn5ef2Wo1oKOJ0HKf2Wo1oKMAhL8pUqJSu4N6ulAIAAAAEXRSTlMAAlyKvewseQjnOUyzGd/gYoMiiv0AAATKSURBVHic7ZxRc9sgEIR1SAKEhKTE9v//q5XsJJ2+dBJmNWSH/fLe8W6XM+YOuk4IIYQQQgghhPg/xsBV4mOe956CPWW8fEv9ur5xsK5LD7bAcs+i/oN1j0j9aakt6McAHTDLfPoPcA7EvraWItaEMiCRrf9PelQEOAOAi0AkDcBRBTAGsK6At7cFsyvca+soZsUUAWIDMPtB1hooA2QAyADVgNo6ipEBMgBigGpAbR3FyAAZADFANaC2jmJkAMQAa34JEBuAORBJtXUUAzoSy7Rngj1EP28VhHVGWI+FF1RjJHNGYJ1B+o8IMDZHV1hn7NgKzIQOQGck+AYEVvSMSN6ZLFj7hBwQeRHT3i8MnFNSePnda/4sEoDXLoQQQojmsZjTTEDKl+yF4tyPLAw7/MJAnJfHY3xwcHzOEftj0PLOIv6LBfmDiFD/47El2O2hOBPqPzIAWwWZUv9jDKBFEOfaUgoZQRGIS20lhYyYc3EjXQEHoNZYqq2jmA1SBGyvraOUEVQEQm0hxWAMiLQJQH0NKAG1dRSjBCgBCAOUANoEaB/QegJUA5QAJQChXwloPQEdbQLGETQuX1tIMZhhYeIzwYDQT3wq/ABNSxtpXwD1U6DrMmcExh3UHDRrvTfI2R0ecN1hSgcWpP5zVLynsmAM6CGZeFiw1J79+S7njBD8bVWzLufEQM6xu+5tWQJa1i6EEEJcSO0rgd/iqn1AnkMYKAjB428M5DC887AN4MuzMTHJP9mgPwdtZtN/gHSA7v//CcwBM0r97xvsDZG01dZSxoCJgMVQW0khG+gdoUwagKMKYAzwtXUUM2A2hXNtHcVg7gt0rCXgMAA0IVJbRzEyQAbIABkgA2SADJABMkAGyAAZIANkQDG8ByID5kDE054Jgo7EIq0BqMYAaxHYPMgA1jWAekipI+2MoPoi560hxubgBgvAAaEDUP3W5UBWB4YZPSqUwkbiwfa+DfDrAh9PqgYK5oSX/7TA4vOV/V/OJdr/NeJX/wkhhBDiAix7V3uP9x1c8BdMy3fRh+HGwjA49GY4E8l/MszQFPhQW9CPGRzQAUL9pwOwHwbGqP9wAHUobLm2lEJgh2KcATjARMAi2RfAXxzEgM7X1lHMANFvqbaOYkDdYdoScLuBBiRqyygGdGuK14DmE9C8AVoCzRugr8HGDVANaN4A1YDGDVANaN6A1msAaAm42jqKwRyIGPGRGKYzwHoqfruB3hDpaE+FYePytYUUAqqBvI0BVHPQzFM6gJsXtugIHUAtgBcznQPoeXGmCZkbeDzi0wJH9KboJfPyFrNnIF/2riwNzRsghBBCwGHZCPlrXtjP3rmJBOfgNwbMu+lOwvlBJ/CFgcgj/xOHOhAk1X+EAOgAo/77NMFWQWbUf9YB1JeBqy2lEFQEjDMAZwQw+iOrAXfUfYHaOoqZIEXAWEvA8T2A2Q/SGoCpghYbN4B4CSgBSoASADBACVACGjdACVACGjdACVACGjeAOgGYcfnWDWA9Fb/DzgSbPxSlPRODNcc8aQRw47KkvUFcd5SzO4x7TK2LROMRH0ygvtiXBW6ismCCzkc8p48zz4jQOSR0wauiFr13DJwD83j5r4f1r/h34bB8TiGEEEIIIURN/gBAh9BIhlgROgAAAABJRU5ErkJggg==",

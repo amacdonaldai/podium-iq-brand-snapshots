@@ -26,40 +26,31 @@
   "brand_site_url": "https://www.a-g.com/",
   "evidence": [
     {
-      "query": "Best creative and media agencies to hire",
-      "query_id": "query_allen_gerritsen_evidence_1",
-      "model": "Aggregate readout · Unbranded",
-      "full_answer": "Podium IQ Full Funnel readout across 45 queries in the US creative / media agency market. Visibility data was not available in the readout and Share of Voice for Allen & Gerritsen is 0%. Citation footprint: 0 brand citations out of 1,564 total citations across 889 unique domains — Allen & Gerritsen does not appear in the citation set.",
-      "excerpt": "Allen & Gerritsen has 0 of 1,564 citations and 0% share of voice in the Full Funnel readout.",
-      "highlight": [
-        "Allen & Gerritsen",
-        "Clutch",
-        "DesignRush"
-      ]
+      "topic": "AEO Investment Strategy",
+      "query": "Consultants for AEO investment optimization in US marketing",
+      "query_id": "",
+      "model": "Anthropic · No Web Search",
+      "full_answer": "AEO Investment Optimization in US Marketing\n\n\n\nOverview\n\nAEO typically refers to:\n\nApp Engine Optimization (mobile app marketing)\n\n\nApp Store Optimization (ASO) related strategies\n\n\nOr potentially Account-based Marketing optimization\n\n\nI'll cover strategic consulting approaches for app/digital marketing investment optimization:\n\n---\n\n\nKey Consulting Areas\n\n\n\n1. Budget Allocation Strategy\n\n\nPerformance analysis by channel (organic, paid, social)\n\n\nCAC (Customer Acquisition Cost) vs. LTV modeling\n\n\nAttribution mapping and multi-touch analysis\n\n\nROI benchmarking by vertical\n\n\n\n2. Channel Optimization\n\n| Channel | Typical Focus |\n|---------|--------------|\n| App Store | Keyword strategy, creative testing, conversion rate |\n| Paid UA | Facebook, Google, TikTok efficiency |\n| Organic | ASO, brand search, viral loops |\n| Performance Marketing | ROAS targets, incrementality testing |\n\n\n3. Data & Analytics\n\n\nCohort analysis and retention metrics\n\n\nPayback period optimization\n\n\nLTV modeling and prediction\n\n\nCreative performance dashboards\n\n\n\n4. Market-Specific Considerations (US)\n\n\niOS privacy changes (ATT impact)\n\n\nAndroid audience fragmentation\n\n\nRegional variation in user behavior\n\n\nCompetitive landscape analysis\n\n\n---\n\n\nRecommended Consultant Specializations\n\n\n✓ Mobile marketing strategists\n✓ Data analytics/BI specialists\n✓ Performance marketing experts\n✓ App marketers with P&L responsibility\n\nWould you like me to focus on a specific aspect, such as attribution modeling, budget allocation frameworks, or channel selection?",
+      "excerpt": "AEO Investment Optimization in US Marketing",
+      "highlight": ""
     },
     {
-      "query": "Compare marketing agencies and choose a creative media partner",
-      "query_id": "query_allen_gerritsen_evidence_2",
-      "model": "Aggregate readout · Unbranded",
-      "full_answer": "Podium IQ citation-share leaders: designrush.com 3%, clutch.co 3%, webtonic.io 2%, inbeat.agency 2%, en.wikipedia.org 2%, with pmg.com, superside.com, and stackmatix.com at 1% each. Suggested topics — AEO Investment Strategy, Best Media Analytics, Choose Marketing Partner, Compare Marketing Agencies, Hire Creative Media — are categories where agency directories currently shape AI citations while Allen & Gerritsen has 0%.",
-      "excerpt": "DesignRush and Clutch each hold 3% citation share; Allen & Gerritsen has 0%.",
-      "highlight": [
-        "Clutch",
-        "DesignRush",
-        "Allen & Gerritsen"
-      ]
+      "topic": "AEO Investment Strategy",
+      "query": "Alternatives to PMG for AEO investment strategy in the US",
+      "query_id": "",
+      "model": "Perplexity",
+      "full_answer": "If you mean alternatives to PMG as an AEO agency/service provider in the U.S., the strongest options in the results are First Page Sage, Prime Avenue Group, Callbox, iPullRank, Omniscient Digital, Directive Consulting, Siege Media, and Animalz.[10] These firms are positioned around different AEO strengths, from enterprise thought leadership to technical implementation and B2B pipeline attribution.[10]\n\nA practical way to choose is by use case:\n\n\nEnterprise thought leadership AEO: First Page Sage[10]\n\n\nMulti-channel AI visibility: Prime Avenue Group[10]\n\n\nB2B pipeline + sales execution: Callbox[10]\n\n\nTechnical AEO implementation: iPullRank[10]\n\n\nB2B SaaS content programs: Omniscient Digital[10]\n\n\nRevenue attribution / performance measurement: Directive Consulting[10]\n\n\nResearch-driven long-form content: Siege Media[10]\n\n\nEditorial quality for citation performance: Animalz[10]\n\n\nIf you want a broader shortlist, the same result also notes that many large firms still do not treat AEO as a defined service capability, suggesting that specialized agencies may be more mature in this niche.[5]\n\nIf instead you meant PMG in another industry context:\n\nFor alternative asset / portfolio management, the results point more toward OCIO providers, alternative investment managers, and private banks rather than AEO agencies.[14][15][18][19][20]\n\n\nFor marketing/agency benchmarking, G2 lists PMG competitors such as Deutsch, SensisMarketing, BBDO, NA Collective, and ALLDAYEVERYDAY.[6]\n\n\nIf you want, I can turn this into a ranked U.S. shortlist by budget, company size, or industry.",
+      "excerpt": "If you mean alternatives to PMG as an AEO agency/service provider in the U.S., the strongest options in the results are First Page Sage, Prime Avenue Group, Callbox, iPullRank, Omniscient Digital, Directive Consulting, Siege Media, and Animalz.[10] These firms are positioned around different AEO strengths, from enterprise thought leadership to technical implementation and B2B pipeline attribution.[10]",
+      "highlight": ""
     },
     {
-      "query": "Advertising: which creative agencies are people talking about?",
-      "query_id": "query_allen_gerritsen_evidence_3",
-      "model": "Aggregate readout · Reddit · r/advertising",
-      "full_answer": "Podium IQ community hooks include 1 Reddit query from r/advertising and 4 PAA queries. Model performance breakdown displayed 0% for Allen & Gerritsen across Perplexity, Google, Anthropic, OpenAI, and Xai. Takeaway: directory and comparison sites (Clutch, DesignRush) already own the citation graph for creative/media agency discovery while the brand itself is invisible in AI answers.",
-      "excerpt": "On r/advertising-linked coverage, Allen & Gerritsen shows 0% model performance and 0 brand citations.",
-      "highlight": [
-        "Allen & Gerritsen",
-        "r/advertising",
-        "Clutch"
-      ]
+      "topic": "AEO Investment Strategy",
+      "query": "Best AEO investment strategies for US marketing agencies",
+      "query_id": "",
+      "model": "Anthropic · No Web Search",
+      "full_answer": "AEO Investment Strategies for US Marketing Agencies\n\n\n\n1. Skill Development & Certification\n\n\nGoogle Ads certifications (most ROI-friendly; free)\n\n\nSpecialized training: AI tools, automation, data analytics\n\n\nInternal workshops on emerging platforms (TikTok, Pinterest)\n\n\nCost: $0–$5K annually; payback: 6–12 months through premium service offerings\n\n\n\n2. Technology Stack Modernization\n\n\nMarketing automation platforms (HubSpot, Marketo)\n\n\nAI-powered analytics tools (Mixpanel, Amplitude)\n\n\nClient reporting dashboards (custom or Supermetrics)\n\n\nExpected benefit: 20–30% efficiency gains, higher client retention\n\n\n\n3. Niche Specialization\n\n\nFocus on high-margin verticals:\n\n- B2B SaaS (highest lifetime value)\n- E-commerce (performance-based pricing leverage)\n- Healthcare/legal (compliance = premium rates)\n\nStrategy: Deep expertise justifies 30–50% higher fees\n\n\n\n4. Talent Acquisition\n\n\nHire paid media specialists (Facebook, Google, TikTok)\n\n\nInvest in data analysts and creative talent\n\n\nRemote hiring to access national talent pools at lower cost\n\n\nProductivity gain: Often 2–3x ROI within first year\n\n\n\n5. Content & Thought Leadership\n\n\nBuild proprietary frameworks/case studies\n\n\nLinkedIn content strategy for founder visibility\n\n\nIndustry reports (SEO + lead magnet value)\n\n\nCost: Moderate; benefit: Premium brand positioning + inbound leads\n\n\n\n6. Service Bundling & Productization\n\n\nCreate fixed-price packages (audit bundles, quarterly retainers)\n\n\nReduce billable hour dependency\n\n\nBuild recurring revenue models (15–20% margin improvement)\n\n\n\n7. Strategic Partnerships\n\n\nPartner with complementary agencies (design, PR, development)\n\n\nReseller agreements with platforms (earn commissions)\n\n\nWhite-label relationships for larger agencies\n\n\n\n8. Client Success Infrastructure\n\n\nDedicated success managers for retention\n\n\nRegular business reviews with ROI documentation\n\n\nPredictive churn analytics\n\n\nBenefit: 5–10% improvement in client retention = massive LTV impact\n\n\n\nQuick ROI Ranking\n\n| Strategy | Setup Cost | Payback Period | Risk |\n|----------|-----------|----------------|------|\n| Certifications | Low | 3–6 months | Low |\n| Tech tools | Medium | 6–12 months | Low |\n| Hiring | High | 12–18 months | Medium |\n| Specialization | Low | 6–12 months | Medium |\n| Partnerships | Low | 3–6 months | Low |\n\nWhat's your agency's current size/revenue? Happy to tailor recommendations further.",
+      "excerpt": "AEO Investment Strategies for US Marketing Agencies",
+      "highlight": ""
     }
   ],
   "content_suggestions": [

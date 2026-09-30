@@ -69,40 +69,31 @@
   ],
   "evidence": [
     {
-      "query": "Best marketing and creative agencies to hire",
-      "query_id": "query_barkleyokrp_evidence_1",
-      "model": "Aggregate readout · Unbranded",
-      "full_answer": "Podium IQ Full Funnel Unbranded readout across 47 queries in the US creative / marketing agency market. Visibility data was not available in the readout and Share of Voice for BarkleyOKRP is 0%. Citation footprint: 0 brand citations out of 1,569 total citations across 850 unique domains — BarkleyOKRP citation share 0%.",
-      "excerpt": "BarkleyOKRP has 0 of 1,569 citations and 0% share of voice; visibility data was unavailable.",
-      "highlight": [
-        "BarkleyOKRP",
-        "Google",
-        "Perplexity"
-      ]
+      "topic": "Agency AI Capabilities",
+      "query": "VMLY&R alternatives for AI marketing strategy",
+      "query_id": "",
+      "model": "Open AI · Web Search",
+      "full_answer": "When considering alternatives to VMLY&R for AI marketing strategy, there are several agencies and firms known for their expertise in AI-driven marketing. Here are some noteworthy alternatives:\n\n\nOgilvy: Known for integrating AI into creative marketing strategies and offering data-driven solutions.\n\n\n\nR/GA: Offers innovative digital marketing solutions with a strong focus on AI and technology.\n\n\n\nHavas: Provides AI-enhanced marketing strategies and data-centric approaches.\n\n\n\nDentsu: Known for leveraging AI to create personalized marketing experiences.\n\n\n\nWunderman Thompson: Combines creativity with deep data capabilities, including AI-driven insights.\n\n\n\nMcCann Worldgroup: Uses AI to enhance consumer engagement and brand strategies.\n\n\n\nAccenture Interactive: Focuses on AI and machine learning to transform customer experiences.\n\n\n\nPublicis Groupe: Utilizes AI across various digital marketing services to drive results.\n\n\n\nSapientRazorfish: Specializes in utilizing AI for digital transformation and customer experience enhancement.\n\n\n\n360i: Recognized for its data-driven marketing strategies and use of AI to deliver impactful campaigns.\n\n\nThese agencies are known for their ability to integrate AI into innovative marketing strategies, providing personalized and efficient solutions tailored to client needs.",
+      "excerpt": "When considering alternatives to VMLY&R for AI marketing strategy, there are several agencies and firms known for their expertise in AI-driven marketing. Here are some noteworthy alternatives:",
+      "highlight": ""
     },
     {
-      "query": "Compare agencies and choose an agency partner",
-      "query_id": "query_barkleyokrp_evidence_2",
-      "model": "Aggregate readout · Unbranded",
-      "full_answer": "Podium IQ suggested topics include Agency AI Capabilities, Agency Comparisons, Agency Pricing & ROI, Best Agency for Needs, and Choosing Agency Partner. Model performance breakdown: BarkleyOKRP 25%, Perplexity 23%, Google 21%, Anthropic 15%, OpenAI 16%, Xai 0%. Top Model noted as Perplexity. No citation-share leader table was captured in the hooks export; brand citation position remains 0 vs 1,569.",
-      "excerpt": "On Choosing Agency Partner topics, BarkleyOKRP shows 0% SOV and 0 brand citations across 850 domains.",
-      "highlight": [
-        "BarkleyOKRP",
-        "Google",
-        "Choosing Agency Partner"
-      ]
+      "topic": "Agency AI Capabilities",
+      "query": "Droga5 AI capabilities comparison for marketing clients",
+      "query_id": "",
+      "model": "Anthropic · No Web Search",
+      "full_answer": "Droga5 AI Capabilities Comparison for Marketing Clients\n\n\n\nOverview\n\nDroga5 (Accenture's creative agency) integrates AI into marketing workflows. Here's a structured comparison framework:\n\n\nKey Capability Areas\n\n\n\n1. Content Creation & Generation\n\n| Capability | Level | Notes |\n|-----------|-------|-------|\n| Copy generation | Medium | Brand-compliant outputs with human review |\n| Visual concept development | Medium | Design exploration, not final production |\n| Campaign ideation | High | Leverages data-informed creative briefs |\n| Personalization at scale | High | Dynamic content for segments |\n\n\n2. Data & Analytics\n\n\nPredictive analytics: Campaign performance forecasting\n\n\nAudience insights: Behavioral segmentation beyond demographics\n\n\nAttribution modeling: Multi-touch customer journey mapping\n\n\nReal-time optimization: A/B testing automation\n\n\n\n3. Media & Buying\n\n\nProgrammatic optimization\n\n\nBid strategy automation\n\n\nCross-channel budget allocation\n\n\nFraud detection\n\n\n\n4. Customer Experience\n\n\nChatbot/conversational AI\n\n\nRecommendation engines\n\n\nSentiment analysis\n\n\nChurn prediction\n\n\n\nWhat Clients Should Evaluate\n\n\n\nStrengths\n\n✓ Integration with Accenture's broader consulting capabilities\n✓ Enterprise-scale infrastructure\n✓ Industry-specific solutions\n✓ Human + AI hybrid workflows\n\n\nLimitations\n\n&#10007; Heavy customization requirements (not plug-and-play)\n&#10007; Implementation timelines\n&#10007; Cost relative to specialized AI tools\n&#10007; Dependency on data quality\n\n\nComparison Context\n\nConsider alongside: WPP's AI initiatives, Publicis' Marcel platform, in-house tools, or specialized vendors (Copy.ai, Jasper, Synthesia)\n\nWhat specific use case or client scenario are you evaluating?",
+      "excerpt": "Droga5 AI Capabilities Comparison for Marketing Clients",
+      "highlight": ""
     },
     {
-      "query": "Digital marketing: which agencies are people talking about?",
-      "query_id": "query_barkleyokrp_evidence_3",
-      "model": "Aggregate readout · Reddit · r/DigitalMarketing",
-      "full_answer": "Podium IQ community hooks include 6 PAA queries and 1 Reddit query from r/DigitalMarketing. Takeaway: with visibility unavailable and 0 of 1,569 citations, BarkleyOKRP is absent from the AI citation graph that buyers see on agency-partner questions.",
-      "excerpt": "On r/DigitalMarketing-linked coverage, BarkleyOKRP has 0 brand citations and 0% share of voice.",
-      "highlight": [
-        "BarkleyOKRP",
-        "r/DigitalMarketing",
-        "Google"
-      ]
+      "topic": "Agency AI Capabilities",
+      "query": "Hire an agency for AI content generation and search optimization?",
+      "query_id": "",
+      "model": "Open AI · Web Search",
+      "full_answer": "Hiring an agency for AI content generation and search optimization can be a great move if you're looking to enhance your digital presence. Here are some advantages and considerations:\n\n\nAdvantages\n\n\n\nExpertise: Agencies often have a team of specialists in AI-driven content creation and SEO strategies.\n\n\nEfficiency: They can usually produce content faster and more efficiently than handling it in-house.\n\n\nTechnology: Access to advanced tools and technology that might be costly for individual businesses to invest in.\n\n\nStrategy: Ability to craft and execute a comprehensive strategy that aligns with your business goals.\n\n\nResults-Driven: Focus on achieving measurable outcomes like traffic growth, improved rankings, and better engagement.\n\n\n\nConsiderations\n\n\n\nCost: Hiring an agency can be expensive, so it’s important to ensure it fits within your budget.\n\n\nAlignment: Make sure their approach aligns with your brand voice and objectives.\n\n\nReputation: Research the agency's reputation and track record of success.\n\n\nCommunication: Ensure clear communication channels and regular updates on progress and performance.\n\n\nScalability: Check if they can scale their efforts as your business grows.\n\n\n\nSteps to Hire\n\n\n\nDefine Your Goals: Clearly know what you want to achieve.\n\n\nResearch and Shortlist: Look for agencies with strong reviews and proven results.\n\n\nAsk for Proposals: Get detailed proposals to understand their approach.\n\n\nEvaluate Proposals: Compare based on expertise, cost, and alignment with your goals.\n\n\nMeet the Team: Ensure you—re comfortable with the team that will be handling your account.\n\n\nSet Clear Terms: Agree on deliverables, timelines, and terms to avoid any misunderstandings.\n\n\nBy carefully evaluating these aspects, you can find an agency that effectively helps you grow your digital presence.",
+      "excerpt": "Hiring an agency for AI content generation and search optimization can be a great move if you're looking to enhance your digital presence. Here are some advantages and considerations:",
+      "highlight": ""
     }
   ]
 }
