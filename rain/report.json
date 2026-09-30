@@ -43,34 +43,40 @@
   "ecosystem_action": "Strengthen presence in sources AI cites for growth and DTC agency queries — Meta, Google, TikTok, Common Thread Collective, Tinuiti, DesignRush, and Clutch currently shape visibility while Rain is invisible on citations (0 of 1,109).",
   "ecosystem_sources": [
     {
+      "name": "Meta",
+      "citations": 100,
       "domain": "meta.com",
-      "share": 9,
-      "label": "Meta"
+      "icon_url": "https://www.google.com/s2/favicons?domain=meta.com&sz=64"
     },
     {
+      "name": "Google",
+      "citations": 78,
       "domain": "google.com",
-      "share": 7,
-      "label": "Google"
+      "icon_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
     },
     {
+      "name": "DesignRush",
+      "citations": 44,
       "domain": "designrush.com",
-      "share": 4,
-      "label": "DesignRush"
+      "icon_url": "https://www.google.com/s2/favicons?domain=designrush.com&sz=64"
     },
     {
+      "name": "Yall",
+      "citations": 33,
       "domain": "yall.co",
-      "share": 3,
-      "label": "Yall"
+      "icon_url": "https://www.google.com/s2/favicons?domain=yall.co&sz=64"
     },
     {
+      "name": "Clutch",
+      "citations": 22,
       "domain": "clutch.co",
-      "share": 2,
-      "label": "Clutch"
+      "icon_url": "https://www.google.com/s2/favicons?domain=clutch.co&sz=64"
     },
     {
+      "name": "Rain",
+      "citations": 1,
       "domain": "rainforgrowth.com",
-      "share": 0,
-      "label": "Rain"
+      "icon_url": "https://www.google.com/s2/favicons?domain=rainforgrowth.com&sz=64"
     }
   ],
   "evidence": [

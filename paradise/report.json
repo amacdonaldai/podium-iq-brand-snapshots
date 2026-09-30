@@ -43,34 +43,40 @@
   "ecosystem_action": "Strengthen presence in sources AI cites for destination and tourism agency queries — MMGY Global, Miles Partnership, DCI, WPP, DesignRush, and directories currently shape visibility while Paradise is nearly invisible on citations (2 of 732).",
   "ecosystem_sources": [
     {
+      "name": "MMGY",
+      "citations": 59,
       "domain": "mmgyglobal.com",
-      "share": 8,
-      "label": "MMGY"
+      "icon_url": "https://www.google.com/s2/favicons?domain=mmgyglobal.com&sz=64"
     },
     {
+      "name": "Miles",
+      "citations": 59,
       "domain": "milespartnership.com",
-      "share": 8,
-      "label": "Miles"
+      "icon_url": "https://www.google.com/s2/favicons?domain=milespartnership.com&sz=64"
     },
     {
+      "name": "DCI",
+      "citations": 59,
       "domain": "aboutdci.com",
-      "share": 8,
-      "label": "DCI"
+      "icon_url": "https://www.google.com/s2/favicons?domain=aboutdci.com&sz=64"
     },
     {
+      "name": "Lyfe",
+      "citations": 29,
       "domain": "lyfemarketing.com",
-      "share": 4,
-      "label": "Lyfe"
+      "icon_url": "https://www.google.com/s2/favicons?domain=lyfemarketing.com&sz=64"
     },
     {
+      "name": "DesignRush",
+      "citations": 22,
       "domain": "designrush.com",
-      "share": 3,
-      "label": "DesignRush"
+      "icon_url": "https://www.google.com/s2/favicons?domain=designrush.com&sz=64"
     },
     {
+      "name": "Paradise",
+      "citations": 7,
       "domain": "paradiseadv.com",
-      "share": 1,
-      "label": "Paradise"
+      "icon_url": "https://www.google.com/s2/favicons?domain=paradiseadv.com&sz=64"
     }
   ],
   "evidence": [

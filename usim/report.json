@@ -43,34 +43,40 @@
   "ecosystem_action": "Strengthen presence in sources AI cites for media agency queries — Tinuiti, Publicis, WPP, Horizon Media, Campaign Live, and Clutch currently shape visibility while USIM is nearly invisible on citations.",
   "ecosystem_sources": [
     {
+      "name": "Tinuiti",
+      "citations": 103,
       "domain": "tinuiti.com",
-      "share": 9,
-      "label": "Tinuiti"
+      "icon_url": "https://www.google.com/s2/favicons?domain=tinuiti.com&sz=64"
     },
     {
+      "name": "Publicis",
+      "citations": 91,
       "domain": "publicisgroupe.com",
-      "share": 8,
-      "label": "Publicis"
+      "icon_url": "https://www.google.com/s2/favicons?domain=publicisgroupe.com&sz=64"
     },
     {
+      "name": "Google",
+      "citations": 34,
       "domain": "google.com",
-      "share": 3,
-      "label": "Google"
+      "icon_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
     },
     {
+      "name": "Campaign Live",
+      "citations": 34,
       "domain": "campaignlive.com",
-      "share": 3,
-      "label": "Campaign Live"
+      "icon_url": "https://www.google.com/s2/favicons?domain=campaignlive.com&sz=64"
     },
     {
+      "name": "Clutch",
+      "citations": 34,
       "domain": "clutch.co",
-      "share": 3,
-      "label": "Clutch"
+      "icon_url": "https://www.google.com/s2/favicons?domain=clutch.co&sz=64"
     },
     {
+      "name": "USIM",
+      "citations": 11,
       "domain": "theusim.com",
-      "share": 1,
-      "label": "USIM"
+      "icon_url": "https://www.google.com/s2/favicons?domain=theusim.com&sz=64"
     }
   ],
   "evidence": [

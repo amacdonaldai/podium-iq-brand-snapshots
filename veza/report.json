@@ -43,34 +43,40 @@
   "ecosystem_action": "Strengthen presence in sources AI cites for digital and AEO agency queries — Clutch, Google, DesignRush, and LinkedIn currently shape citations while Veza Agency Network remains thin at 7 of 1,150 citations.",
   "ecosystem_sources": [
     {
+      "name": "Clutch",
+      "citations": 46,
       "domain": "clutch.co",
-      "share": 4,
-      "label": "Clutch"
+      "icon_url": "https://www.google.com/s2/favicons?domain=clutch.co&sz=64"
     },
     {
+      "name": "Google",
+      "citations": 46,
       "domain": "google.com",
-      "share": 4,
-      "label": "Google"
+      "icon_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
     },
     {
+      "name": "DesignRush",
+      "citations": 46,
       "domain": "designrush.com",
-      "share": 4,
-      "label": "DesignRush"
+      "icon_url": "https://www.google.com/s2/favicons?domain=designrush.com&sz=64"
     },
     {
+      "name": "Directive",
+      "citations": 23,
       "domain": "directiveconsulting.com",
-      "share": 2,
-      "label": "Directive"
+      "icon_url": "https://www.google.com/s2/favicons?domain=directiveconsulting.com&sz=64"
     },
     {
+      "name": "LinkedIn",
+      "citations": 23,
       "domain": "linkedin.com",
-      "share": 2,
-      "label": "LinkedIn"
+      "icon_url": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64"
     },
     {
+      "name": "Veza",
+      "citations": 12,
       "domain": "vezanetwork.com",
-      "share": 1,
-      "label": "Veza"
+      "icon_url": "https://www.google.com/s2/favicons?domain=vezanetwork.com&sz=64"
     }
   ],
   "evidence": [

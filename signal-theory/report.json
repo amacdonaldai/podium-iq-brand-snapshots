@@ -43,34 +43,40 @@
   "ecosystem_action": "Strengthen presence in sources AI cites for independent creative agency queries — WPP, Wieden+Kennedy, Omnicom, DesignRush, Clutch, and The Drum currently shape visibility while Signal Theory is nearly invisible on citations (1 of 1,221).",
   "ecosystem_sources": [
     {
+      "name": "WPP",
+      "citations": 85,
       "domain": "wpp.com",
-      "share": 7,
-      "label": "WPP"
+      "icon_url": "https://www.google.com/s2/favicons?domain=wpp.com&sz=64"
     },
     {
+      "name": "W+K",
+      "citations": 61,
       "domain": "wk.com",
-      "share": 5,
-      "label": "W+K"
+      "icon_url": "https://www.google.com/s2/favicons?domain=wk.com&sz=64"
     },
     {
+      "name": "Google",
+      "citations": 49,
       "domain": "google.com",
-      "share": 4,
-      "label": "Google"
+      "icon_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
     },
     {
+      "name": "The Drum",
+      "citations": 37,
       "domain": "thedrum.com",
-      "share": 3,
-      "label": "The Drum"
+      "icon_url": "https://www.google.com/s2/favicons?domain=thedrum.com&sz=64"
     },
     {
+      "name": "Clutch",
+      "citations": 24,
       "domain": "clutch.co",
-      "share": 2,
-      "label": "Clutch"
+      "icon_url": "https://www.google.com/s2/favicons?domain=clutch.co&sz=64"
     },
     {
+      "name": "Signal Theory",
+      "citations": 12,
       "domain": "signaltheory.com",
-      "share": 1,
-      "label": "Signal Theory"
+      "icon_url": "https://www.google.com/s2/favicons?domain=signaltheory.com&sz=64"
     }
   ],
   "evidence": [

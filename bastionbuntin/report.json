@@ -43,34 +43,40 @@
   "ecosystem_action": "Strengthen presence in sources AI cites for full-service and retail agency queries — WPP, Publicis, Omnicom, BarkleyOKRP, Clutch, and directories currently shape visibility while BastionBUNTIN is invisible on citations.",
   "ecosystem_sources": [
     {
+      "name": "WPP",
+      "citations": 110,
       "domain": "wpp.com",
-      "share": 9,
-      "label": "WPP"
+      "icon_url": "https://www.google.com/s2/favicons?domain=wpp.com&sz=64"
     },
     {
+      "name": "BarkleyOKRP",
+      "citations": 74,
       "domain": "barkleyokrp.com",
-      "share": 6,
-      "label": "BarkleyOKRP"
+      "icon_url": "https://www.google.com/s2/favicons?domain=barkleyokrp.com&sz=64"
     },
     {
+      "name": "Google",
+      "citations": 49,
       "domain": "google.com",
-      "share": 4,
-      "label": "Google"
+      "icon_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
     },
     {
+      "name": "Webtonic",
+      "citations": 49,
       "domain": "webtonic.io",
-      "share": 4,
-      "label": "Webtonic"
+      "icon_url": "https://www.google.com/s2/favicons?domain=webtonic.io&sz=64"
     },
     {
+      "name": "inbeat",
+      "citations": 49,
       "domain": "inbeat.agency",
-      "share": 4,
-      "label": "inbeat"
+      "icon_url": "https://www.google.com/s2/favicons?domain=inbeat.agency&sz=64"
     },
     {
+      "name": "Clutch",
+      "citations": 37,
       "domain": "clutch.co",
-      "share": 3,
-      "label": "Clutch"
+      "icon_url": "https://www.google.com/s2/favicons?domain=clutch.co&sz=64"
     }
   ],
   "evidence": [

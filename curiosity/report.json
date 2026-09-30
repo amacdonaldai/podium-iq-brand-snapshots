@@ -41,34 +41,40 @@
   "ecosystem_action": "Strengthen presence in the sources AI already cites for CPG and retail agency queries — directories (WPP, Stagwell, Omnicom), Clutch, inbeat.agency, and review sites currently shape visibility and citations while Curiosity is nearly invisible.",
   "ecosystem_sources": [
     {
+      "name": "WPP",
+      "citations": 87,
       "domain": "wpp.com",
-      "share": 8,
-      "label": "WPP"
+      "icon_url": "https://www.google.com/s2/favicons?domain=wpp.com&sz=64"
     },
     {
+      "name": "Stagwell",
+      "citations": 77,
       "domain": "stagwellglobal.com",
-      "share": 7,
-      "label": "Stagwell"
+      "icon_url": "https://www.google.com/s2/favicons?domain=stagwellglobal.com&sz=64"
     },
     {
+      "name": "inbeat.agency",
+      "citations": 44,
       "domain": "inbeat.agency",
-      "share": 4,
-      "label": "inbeat.agency"
+      "icon_url": "https://www.google.com/s2/favicons?domain=inbeat.agency&sz=64"
     },
     {
+      "name": "Clutch",
+      "citations": 44,
       "domain": "clutch.co",
-      "share": 4,
-      "label": "Clutch"
+      "icon_url": "https://www.google.com/s2/favicons?domain=clutch.co&sz=64"
     },
     {
+      "name": "Cool Nerds",
+      "citations": 33,
       "domain": "coolnerdsmarketing.com",
-      "share": 3,
-      "label": "Cool Nerds"
+      "icon_url": "https://www.google.com/s2/favicons?domain=coolnerdsmarketing.com&sz=64"
     },
     {
+      "name": "Curiosity",
+      "citations": 11,
       "domain": "curiosity.fun",
-      "share": 1,
-      "label": "Curiosity"
+      "icon_url": "https://www.google.com/s2/favicons?domain=curiosity.fun&sz=64"
     }
   ],
   "evidence": [

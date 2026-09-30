@@ -43,34 +43,40 @@
   "ecosystem_action": "Strengthen presence in sources AI cites for loyalty and CRM agency queries — Salesforce, HubSpot, Dentsu, ampliFI, and Clutch currently shape visibility while Phaedon is nearly invisible on citations (1 of 1,293).",
   "ecosystem_sources": [
     {
+      "name": "Salesforce",
+      "citations": 103,
       "domain": "salesforce.com",
-      "share": 8,
-      "label": "Salesforce"
+      "icon_url": "https://www.google.com/s2/favicons?domain=salesforce.com&sz=64"
     },
     {
+      "name": "HubSpot",
+      "citations": 78,
       "domain": "hubspot.com",
-      "share": 6,
-      "label": "HubSpot"
+      "icon_url": "https://www.google.com/s2/favicons?domain=hubspot.com&sz=64"
     },
     {
+      "name": "Accenture",
+      "citations": 52,
       "domain": "accenture.com",
-      "share": 4,
-      "label": "Accenture"
+      "icon_url": "https://www.google.com/s2/favicons?domain=accenture.com&sz=64"
     },
     {
+      "name": "Dentsu",
+      "citations": 52,
       "domain": "dentsu.com",
-      "share": 4,
-      "label": "Dentsu"
+      "icon_url": "https://www.google.com/s2/favicons?domain=dentsu.com&sz=64"
     },
     {
+      "name": "Clutch",
+      "citations": 39,
       "domain": "clutch.co",
-      "share": 3,
-      "label": "Clutch"
+      "icon_url": "https://www.google.com/s2/favicons?domain=clutch.co&sz=64"
     },
     {
+      "name": "Phaedon",
+      "citations": 1,
       "domain": "wearephaedon.com",
-      "share": 0,
-      "label": "Phaedon"
+      "icon_url": "https://www.google.com/s2/favicons?domain=wearephaedon.com&sz=64"
     }
   ],
   "evidence": [

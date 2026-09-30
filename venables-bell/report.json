@@ -34,28 +34,40 @@
   "ecosystem_action": "Strengthen presence in sources AI cites for independent creative agency queries — WPP, Stagwell, Omnicom, Ad Age, Clutch.",
   "ecosystem_sources": [
     {
+      "name": "Ad Age",
+      "citations": 41,
       "domain": "adage.com",
-      "share": 4
+      "icon_url": "https://www.google.com/s2/favicons?domain=adage.com&sz=64"
     },
     {
+      "name": "Clutch",
+      "citations": 31,
       "domain": "clutch.co",
-      "share": 3
+      "icon_url": "https://www.google.com/s2/favicons?domain=clutch.co&sz=64"
     },
     {
+      "name": "Adweek",
+      "citations": 31,
       "domain": "adweek.com",
-      "share": 3
+      "icon_url": "https://www.google.com/s2/favicons?domain=adweek.com&sz=64"
     },
     {
+      "name": "DesignRush",
+      "citations": 21,
       "domain": "designrush.com",
-      "share": 2
+      "icon_url": "https://www.google.com/s2/favicons?domain=designrush.com&sz=64"
     },
     {
+      "name": "LinkedIn",
+      "citations": 21,
       "domain": "linkedin.com",
-      "share": 2
+      "icon_url": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64"
     },
     {
+      "name": "Venables Bell",
+      "citations": 10,
       "domain": "venablesbell.com",
-      "share": 1
+      "icon_url": "https://www.google.com/s2/favicons?domain=venablesbell.com&sz=64"
     }
   ],
   "evidence": [
